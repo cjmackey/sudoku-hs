@@ -7,5 +7,5 @@ usage
 -----
 
 	ghc --make -O2 sudoku
-	cat top95.txt | sudoku
+	cat top95.txt | ./sudoku
 
